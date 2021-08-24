@@ -1,0 +1,12 @@
+.body_background 
+{
+    background-image: url(hOye.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#myCanvas
+{
+   background-color: white;
+   border: 10px ridge darkviolet;
+}
+
